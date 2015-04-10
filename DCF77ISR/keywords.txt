@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map for DCF77ISR
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Dcf77Analyser
+
+
+	
+DCF77ISR	KEYWORD1
+DCF77_LED_REPLICAPIN	KEYWORD1
+DCF77_PARTIALOK	KEYWORD1
+DCF77_MAXMOVINGAVERAGE	KEYWORD1
+DCF77_MINDRIFTCORRECTION	KEYWORD1
+DCF77_Pin	KEYWORD1
+DCF77_INTNR	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+isMinute	KEYWORD2
+minuteRead	KEYWORD2
+feed	KEYWORD2
+elaborate	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+TM_CET	LITERAL1
+TM_CEST	LITERAL1
