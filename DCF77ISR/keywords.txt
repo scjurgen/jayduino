@@ -5,10 +5,8 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-Dcf77Analyser
+Dcf77Analyser	KEYWORD1
 
-
-	
 DCF77ISR	KEYWORD1
 DCF77_LED_REPLICAPIN	KEYWORD1
 DCF77_PARTIALOK	KEYWORD1
